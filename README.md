@@ -19,7 +19,7 @@
 ## 🏆 Quick Highlights
 - **MSc GPA**: 4.06/5.0 (Applied Mathematics)
 - **Research Output**: 3 preprints, 533+ ResearchGate reads
-- **Quantum Certifications**: Qiskit Summer School, QWorld (5+ certifications)
+- **Quantum Certifications**: Qiskit Summer School Attendee, QWorld (5+ certifications)
 - **Award**: UNESCO Bootcamp 2025 Deep Tech Winner (Fiji)
 - **Teaching**: Engineering Mathematics Tutor at PNG UoT
 
