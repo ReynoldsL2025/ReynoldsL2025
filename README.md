@@ -1,60 +1,45 @@
-<div align="center">
-  
-# 👨‍🔬 Reynolds Lyakisa
+# 👋 Hi, I'm Reynolds Lyakisa
 
-**MSc Applied Mathematics | Quantum Computing & TDA Researcher**  
-**UNESCO Bootcamp 2025 Deep Tech Winner | CERN OpenLab 2026 Applicant**
+**MSc Applied Mathematics Student** | Passionate about computational methods
 
 📍 Papua New Guinea University of Technology  
 📧 reynoldslyakisa@pnguot.ac.pg  
-🔗 [ResearchGate](https://researchgate.net/profile/Reynolds-Lyakisa-3) | [ORCID](https://orcid.org/0009-0001-3615-3872) | [LinkedIn](https://linkedin.com/in/reynolds-lyakisa)
+🔗 [ResearchGate](https://researchgate.net/profile/Reynolds-Lyakisa-3) | [ORCID](https://orcid.org/0009-0001-3615-3872)
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Qiskit](https://img.shields.io/badge/Qiskit-Expert-yellow)
-![CERN](https://img.shields.io/badge/CERN%20OpenLab-2026%20Applicant-red)
-![Research](https://img.shields.io/badge/Research-533%2B%20Reads-green)
+---
 
-</div>
+## 🎓 Education
+- **MSc Applied Mathematics** (Current) - Papua New Guinea University of Technology
+- **GPA**: 4.06/5.0 (in progress)
 
-## 🏆 Quick Highlights
-- **MSc GPA**: 4.06/5.0 (Applied Mathematics)
-- **Research Output**: 3 preprints, 533+ ResearchGate reads
-- **Quantum Certifications**: Qiskit Summer School Attendee, QWorld (5+ certifications)
-- **Award**: UNESCO Bootcamp 2025 Deep Tech Winner (Fiji)
-- **Teaching**: Engineering Mathematics Tutor at PNG UoT
+## 🔬 Research Interests
+- Quantum computing applications
+- Topological data analysis
+- Scientific computing
 
-## 🔬 Research Focus
-| Area | Expertise Level | CERN Relevance |
-|------|----------------|----------------|
-| **Quantum Computing** | Intermediate (Qiskit, Pennylane) | Quantum algorithms for HEP optimization |
-| **Topological Data Analysis** | Intermediate (Persistent Homology, Mapper) | Anomaly detection in detector data |
-| **High-Performance Computing** | Foundational (MPI, Parallel Python) | Grid computing, simulation optimization |
-| **Mathematical Physics** | Advanced (Path integrals, Variational methods) | Theoretical foundations for simulations |
+## 🏆 Recent Achievements
+- UNESCO Bootcamp 2025 Participant (Fiji)
+- Engineering Mathematics Tutor
 
-## 📊 Featured Projects
+## 📊 Technical Skills I'm Learning
+- **Python**: NumPy, SciPy, Matplotlib
+- **Quantum Computing**: Qiskit fundamentals
+- **TDA**: giotto-tda basics
+- **Mathematics**: Linear algebra, optimization, topology
 
-### ⚛️ [Quantum-HEP Prototypes](https://github.com/ReynoldsL2025/quantum-hep-prototypes)
-> Quantum algorithms adapted for high-energy physics problems
-- **Status**: Active development
-- **Tech**: Qiskit, Python, NumPy
-- **CERN Relevance**: Quantum optimization for track reconstruction
+---
 
-### 🧮 [TDA for Physics](https://github.com/ReynoldsL2025/td4physics)
-> Topological Data Analysis applied to physics datasets
-- **Status**: Research implementation
-- **Tech**: giotto-tda, Scikit-learn, Matplotlib
-- **CERN Relevance**: Topological anomaly detection in LHC data
+### 📂 My Learning Repositories
 
-### 🖥️ [HEP Computing Basics](https://github.com/ReynoldsL2025/hep-computing-basics)
-> Foundational computing skills for CERN workflows
-- **Status**: Learning portfolio
-- **Tech**: Python, MPI basics, Monte Carlo simulations
-- **CERN Relevance**: Understanding WLCG computing patterns
+#### [Research Portfolio 2026](https://github.com/ReynoldsL2025/research-portfolio-2026)
+Documenting my learning journey in computational mathematics
 
-### 📚 [Research Portfolio 2026](https://github.com/ReynoldsL2025/research-portfolio-2026)
-> Comprehensive portfolio for CERN OpenLab application
-- **Status**: Application preparation
-- **Contents**: Project proposals, skill assessments, references
-- **CERN Relevance**: Direct application materials
+#### [Quantum Computing Learning](https://github.com/ReynoldsL2025/quantum-hep-prototypes)
+Qiskit tutorials and simple quantum algorithm implementations
 
-## 📈 GitHub Activity Timeline
+#### [TDA Exploration](https://github.com/ReynoldsL2025/tda-physics-applications)
+Learning topological data analysis concepts
+
+---
+
+> "Learning to apply mathematics to interesting computational problems."
